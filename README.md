@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D4D16AQFBmkuuMDPYhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732818752412?e=1750896000&v=beta&t=ZkVp8CwaibR31-agL4iafvTVdek86sJIbFZOqkzyNmc](https://media.licdn.com/dms/image/v2/D4D16AQFBmkuuMDPYhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732818752412?e=1750896000&v=beta&t=ZkVp8CwaibR31-agL4iafvTVdek86sJIbFZOqkzyNmc)" alt="Banner do Leonardo Cunha" width="800"/>
-</p>
+![Image](https://github.com/user-attachments/assets/90436b02-d1e0-4cc5-b121-77eba40dc24c)
 
 # 💫 About Me:
 🔭 I’m building SaaS MVPs with Node.js, PostgreSQL, Next.js, and diverse third‑party APIs<br>👯 I’m eager to contribute to open‑source AI projects and design automation pipelines (serverless, no‑code/low‑code)<br>🤝 I’m seeking UX/UI design insights for SaaS interfaces, advanced prompt‑engineering guidance, and back‑end performance optimizations<br>🌱 I’m diving into scalable CI/CD workflows and container orchestration (Docker, Kubernetes), alongside mastering advanced TypeScript<br>💬 Ask me about full‑stack development (Next.js, Node.js, Python), AI/ML‑driven content automation, and scaling SaaS products<br>⚡ Fun fact: When I’m off the clock, you’ll find me powerlifting in the gym!
