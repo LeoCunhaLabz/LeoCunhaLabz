@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://seu-dominio.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQFBmkuuMDPYhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732818752412?e=1750896000&v=beta&t=ZkVp8CwaibR31-agL4iafvTVdek86sJIbFZOqkzyNmc)" alt="Banner do Leonardo Cunha" width="800"/>
+  <img src="[https://media.licdn.com/dms/image/v2/D4D16AQFBmkuuMDPYhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732818752412?e=1750896000&v=beta&t=ZkVp8CwaibR31-agL4iafvTVdek86sJIbFZOqkzyNmc](https://media.licdn.com/dms/image/v2/D4D16AQFBmkuuMDPYhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732818752412?e=1750896000&v=beta&t=ZkVp8CwaibR31-agL4iafvTVdek86sJIbFZOqkzyNmc)" alt="Banner do Leonardo Cunha" width="800"/>
 </p>
 
 # 💫 About Me:
