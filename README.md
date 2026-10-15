@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/90436b02-d1e0-4cc5-b121-77eba40dc24c)
+![Header](<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/cdcdb816-2a69-4a04-8469-d547610843ba" />)
 
 <h1 align="center">Leo Cunha</h1>
 <p align="center">
