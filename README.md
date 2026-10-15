@@ -1,89 +1,53 @@
-![Header](<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/cdcdb816-2a69-4a04-8469-d547610843ba" />)
+![Profile banner](https://github.com/user-attachments/assets/cdcdb816-2a69-4a04-8469-d547610843ba)
 
-<h1 align="center">Leo Cunha</h1>
-<p align="center">
-  <b>Full-Stack Developer</b> · SaaS MVPs & API Integrations · Node.js • Next.js • TypeScript
-</p>
+# Hi, I'm Leo Cunha
 
-<p align="center">
-  <a href="https://leonardo-cunha.com">Portfolio</a> ·
-  <a href="https://github.com/LeoCunhaLabz">GitHub</a> ·
-  <a href="https://linkedin.com/in/leonardovcunha">LinkedIn</a> ·
-  <a href="mailto:dev@leonardo-cunha.com">Email</a>
-</p>
+**Full-Stack Software Engineer · Node.js, TypeScript & React**
 
----
+I build B2B SaaS products, reliable backends, and AI integrations, from data models and APIs to the interfaces people use every day.
 
-## 👋 About
+Based in São Paulo, Brazil. Currently at **Flatiron Software**, working with a US media client.
 
-- I build **SaaS MVPs and API integrations** that reduce manual work and ship to production in weeks, not months.  
-- My focus is on **reliable backends**: queues/retries, idempotent webhooks and structured logging so things don’t break silently.  
-- I like wiring products with **billing (Stripe/Asaas), third-party APIs and automations** (n8n, Airtable, WeWeb, etc.).  
-- Background in **VC/investments** → I’m comfortable turning business goals and metrics into technical requirements.  
+[Portfolio](https://leonardo-cunha.com) · [LinkedIn](https://www.linkedin.com/in/leonardovcunha/) · [Email](mailto:dev@leonardo-cunha.com)
 
-When I’m not shipping features, I’m usually powerlifting at the gym or reading about startups and venture capital.
+## Selected experience
 
----
+### Product engineering for a US media client
 
-## 🚀 Selected work
+- Migrated a legacy Vue interface to **React and TanStack**, connecting it to backend APIs as they shipped.
+- Designed a shared data contract across ingestion pipelines, the API, and the UI.
+- Work directly with US product stakeholders to turn newsroom needs into scoped engineering tasks.
 
-- **Airticles.ai – AI content platform**  
-  _WeWeb + Node/TypeScript + AWS + PostgreSQL + Stripe_  
-  - End-to-end pipeline for SEO articles and images: auth, billing, workers, queues/retries.  
-  - Cut manual steps in drafting/formatting/publishing and made releases predictable.
+### Airticles.ai — AI content generation and publishing
 
-- **Effluent Simulation Engine – environmental modeling**  
-  _Python + genetic algorithms + 100k+ river discharge scenarios_  
-  - Engine to explore trade-offs between compliance and cost without touching raw code.  
-  - Helped decision-makers simulate complex scenarios instead of relying on static spreadsheets.
+- Built and operated generation and publishing workflows integrating **OpenAI, WordPress**, and other external APIs.
+- The platform generated **7,500+ SEO articles and 22,000+ images**, reaching **100+ paying customers**.
+- Worked on production reliability through retries, idempotent workflows, structured logging, and monitoring.
 
-- **Portfolio monitoring automations – VC**  
-  _Python + APIs + spreadsheets/databases_  
-  - Pipelines to collect and validate metrics from portfolio companies.  
-  - Turned messy spreadsheets into **consistent, decision-ready dashboards** for the investment team.
+### SaaS delivery and business automation
 
-More projects and details ➜ **https://leonardo-cunha.com**
+- Built SaaS MVPs and API integrations at **Novva Solutions**, including subscription and billing flows with **Stripe and Asaas**.
+- Previously used **Python** for portfolio analytics in venture capital, moving KPI reporting from an ad hoc monthly cycle to a weekly cadence.
 
----
+## Public project
 
-## 🧰 Tech I use most
+### [ONYX — Powerlifting app](https://github.com/LeoCunhaLabz/powerlifting-app)
 
-**Core stack**
+A personal project for logging workouts, following training routines, and tracking strength progress.
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express/Fastify, Python (FastAPI), PHP (Laravel basics)  
-- **Data:** PostgreSQL, MySQL, MongoDB, Prisma, basic Redis (caching/queues)  
-- **Infra & DevOps:** Docker, GitHub Actions, Vercel, Railway, Ubuntu VPS, AWS basics  
-- **Integrations & automation:** Stripe, Asaas, REST APIs, n8n, Airtable, WeWeb, Zapier  
+**React · TypeScript · Fastify · PostgreSQL · Docker · GitHub Actions**
 
-**Also familiar with**
+The repository includes the application, API, deployment documentation, and workflows for linting, tests, and builds.
 
-Django, Flask, Firebase, WordPress, Webflow/Bubble, Pandas/NumPy, etc.
+## Tools I work with
 
----
+- **Frontend:** React, Next.js, TypeScript, TanStack
+- **Backend and data:** Node.js, Fastify, Python, PostgreSQL, MySQL
+- **Delivery and cloud:** Docker, GitHub Actions, AWS, Google Cloud
+- **Integrations:** REST APIs, webhooks, OpenAI, Stripe, Asaas, WordPress, n8n
 
-## 🎯 Currently focused on
+My background combines aeronautical engineering and venture capital. I enjoy connecting business problems with practical software decisions.
 
-- Scaling **CI/CD workflows** (GitHub Actions, containers) for small teams.  
-- Better **observability** for SaaS MVPs: logs, alerts and structured error tracking.  
-- **Advanced TypeScript** patterns for safer backends and shared types (API/client).  
+Outside work: powerlifting, reading, and startups.
 
----
-
-## 📊 GitHub
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCunhaLabz&layout=compact&theme=default&hide_border=false&count_private=true">
-  <img
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCunhaLabz&layout=compact&theme=default&hide_border=false&count_private=true"
-/>
-</a>
-
----
-
-## 📫 Contact
-
-- 📧 **Email:** leonardovalcesio@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/leonardovcunha  
-- 🌐 **Portfolio:** https://leonardo-cunha.com  
-- 🌍 São Paulo, Brazil · 🇧🇷 PT-BR · 🇺🇸 EN
+**Portuguese:** native · **English:** fluent
