@@ -1,6 +1,6 @@
 ![Profile banner](https://github.com/user-attachments/assets/cdcdb816-2a69-4a04-8469-d547610843ba)
 
-# Hi, I'm Leo Cunha
+# Hi, I'm Leonardo Cunha
 
 **Full-Stack Software Engineer · Node.js, TypeScript & React**
 
@@ -8,7 +8,7 @@ I build B2B SaaS products, reliable backends, and AI integrations, from data mod
 
 Based in São Paulo, Brazil. Currently at **Flatiron Software**, working with a US media client.
 
-[Portfolio](https://leonardo-cunha.com) · [LinkedIn](https://www.linkedin.com/in/leonardovcunha/) · [Email](mailto:dev@leonardo-cunha.com)
+[Portfolio](https://www.leonardo-cunha.com) · [Résumé (PDF)](https://www.leonardo-cunha.com/Leonardo_Cunha_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/leonardovcunha/) · [Email](mailto:dev@leonardo-cunha.com)
 
 ## Selected experience
 
@@ -29,15 +29,15 @@ Based in São Paulo, Brazil. Currently at **Flatiron Software**, working with a 
 - Built SaaS MVPs and API integrations at **Novva Solutions**, including subscription and billing flows with **Stripe and Asaas**.
 - Previously used **Python** for portfolio analytics in venture capital, moving KPI reporting from an ad hoc monthly cycle to a weekly cadence.
 
-## Public project
+## Case studies
 
-### [ONYX — Powerlifting app](https://github.com/LeoCunhaLabz/powerlifting-app)
+The code behind these projects is private or belongs to clients, so each one is written up on my portfolio: the problem, my part, and the result.
 
-A personal project for logging workouts, following training routines, and tracking strength progress.
+- **[AIrticles](https://www.leonardo-cunha.com/projects/airticles)**: an AI pipeline that writes, illustrates and publishes SEO articles. I built the first version of the product, frontend and backend.
+- **[ONYX](https://www.leonardo-cunha.com/projects/onyx)**: an offline-first powerlifting log, built solo from product to production with React, Fastify and PostgreSQL.
+- **[River Effluent Simulator](https://www.leonardo-cunha.com/projects/river-effluent-simulator)**: a desktop app that simulates river water quality and optimizes where effluents are discharged, built for a PhD researcher.
 
-**React · TypeScript · Fastify · PostgreSQL · Docker · GitHub Actions**
-
-The repository includes the application, API, deployment documentation, and workflows for linting, tests, and builds.
+[All projects](https://www.leonardo-cunha.com/projects)
 
 ## Tools I work with
 
